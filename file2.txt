@@ -1,3 +1,3 @@
-file2-line143
-check
+file2-123
+checking conflict
 merge without conflict
