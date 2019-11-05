@@ -1,2 +1,2 @@
-file2- 123
-checking conflict
+123
+456
